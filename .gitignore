@@ -1,4 +1,3 @@
-Backend/obj/*
-.idea/*
-Backend/obj/*
-Backend/bin/*
+obj/
+.idea/
+Debug/
